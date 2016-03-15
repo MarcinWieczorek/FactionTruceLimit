@@ -1,0 +1,5 @@
+name: FactionTruceLimit
+version: 1.0
+author: Marcin (CTRL) Wieczorek
+main: co.marcin.factiontrucelimit.FactionTruceLimit
+depend: [ Factions, MassiveCore ]
